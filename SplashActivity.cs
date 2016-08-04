@@ -1,11 +1,14 @@
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Android.App;
 using Android.Content;
 using Android.OS;
 using Android.Support.V7.App;
 using Android.Util;
+using System.Threading;
 
-namespace App5
+
+
+namespace com.xamarin.sample.splashscreen
 {
     [Activity(Theme = "@style/MyTheme.Splash", MainLauncher = true, NoHistory = true)]
     public class SplashActivity : AppCompatActivity
@@ -23,19 +26,32 @@ namespace App5
             base.OnResume();
 
             Task startupWork = new Task(() =>
-            {
-                Log.Debug(TAG, "Performing some startup work that takes a bit of time.");
-                Task.Delay(5000); // Simulate a bit of startup work.
-                Log.Debug(TAG, "Working in the background - important stuff.");
-            });
+                                        {
+                                            Log.Debug(TAG, "Performing some startup work that takes a bit of time.");
+                                            Task.Delay(1000); // Simulate a bit of startup work.
+                                            Log.Debug(TAG, "Working in the background - important stuff.");
+                                        });
 
             startupWork.ContinueWith(t =>
-            {
-                Log.Debug(TAG, "Work is finished - start Activity1.");
-                StartActivity(new Intent(Application.Context, typeof(Activity1)));
-            }, TaskScheduler.FromCurrentSynchronizationContext());
+                                     {
+                                         Log.Debug(TAG, "Work is finished - start Activity1.");
+                                         StartActivity(new Intent(Application.Context, typeof(Activity1)));
+                                     }, TaskScheduler.FromCurrentSynchronizationContext());
 
             startupWork.Start();
+        }
+        protected override void OnCreate(Bundle bundle)
+        {
+            base.OnCreate(bundle);
+
+            Task.Run(() =>
+            {
+                Thread.Sleep(30000); // Simulate a long loading process on app startup.
+                RunOnUiThread(() =>
+                {
+                    StartActivity(typeof(AppCompatActivity));
+                });
+            });
         }
     }
 }

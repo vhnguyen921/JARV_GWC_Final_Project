@@ -1,0 +1,4 @@
+App5.MainActivity, App5;md593b8d625023f6802361dd1b8a6546be5.MainActivity
+App5.MainActivity, App5, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md593b8d625023f6802361dd1b8a6546be5.MainActivity
+App5.MainActivity;md593b8d625023f6802361dd1b8a6546be5.MainActivity
+app5.MainActivity;md593b8d625023f6802361dd1b8a6546be5.MainActivity

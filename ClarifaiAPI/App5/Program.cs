@@ -18,7 +18,7 @@ using System.Text.RegularExpressions;
 
 namespace httpclartest
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -28,9 +28,10 @@ namespace httpclartest
 
             Console.WriteLine("Potentially NSFW URL: {Added for debug}");
             // string remoteUri = Console.ReadLine();
-            string vikingDude = "https://i.imgur.com/lnzsgv9.jpg";
-            string nudeWoman = "https://i.imgur.com/aJXq544.jpg";
-            string modelURL = "http://api.clarifai.com/v1/tag/?model=nsfw-v0.1&url=" + nudeWoman + "&access_token=RRlxw7gfFzAT013BKoBsAEInHu4x7g";
+            //string vikingDude = "https://i.imgur.com/lnzsgv9.jpg";
+            //string nudeWoman = "https://i.imgur.com/aJXq544.jpg";
+            string test1 = "http://www.mortonarb.org/files/EVENT_Oak-Collection.jpg";
+            string modelURL = "http://api.clarifai.com/v1/tag/?&url=" + test1 + "&access_token=7gZe1kl5y2kbsmn3Z1avOWXMOehNuW";
             // make a webclient 
             WebClient myWebClient = new WebClient();
             // download & save in a databuffer)
@@ -51,9 +52,12 @@ namespace httpclartest
             string strn = download.Substring(iop, iof - iop);
 
             //Enable for dbg 
-            Console.WriteLine("Parsed Text: ");
-            Console.WriteLine(" ");
-            Console.WriteLine(strn);
+            System.Diagnostics.Debug.Write("Parsed Text: ");
+            System.Diagnostics.Debug.Write(" ");
+           
+               //(strn.Split(" ")[1]);
+
+            //Console.WriteLine(strn.Split(" ")[1]);
 
 
             int iof2 = download.IndexOf("nsfw");

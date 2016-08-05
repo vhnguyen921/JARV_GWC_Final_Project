@@ -13,6 +13,9 @@ namespace App5
     {
         int count = 1;
 
+        //Program p = new Program();
+
+
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);

@@ -36,4 +36,43 @@ c:\users\girls who code\documents\visual studio 2015\Projects\App5\App5\obj\Debu
 c:\users\girls who code\documents\visual studio 2015\Projects\App5\App5\obj\Debug\android\assets\System.Xml.dll.mdb
 c:\users\girls who code\documents\visual studio 2015\Projects\App5\App5\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\Girls Who Code\Documents\Visual Studio 2015\Projects\App5\App5\obj\Debug\App5.dll.mdb
-C:\Users\Girls Who Code\Documents\Visual Studio 2015\Projects\App5\App5\bin\Debug\App5.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\App5.dll.config
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\App5.dll
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\App5.pdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\App5.App5.apk
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\App5.App5-Signed.apk
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\App5.csprojResolveAssemblyReference.cache
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\App5.dll
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\App5.pdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\bin\App5.App5.apk
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\res\layout\main.xml
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\res\values\strings.xml
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\res\drawable\icon.png
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\R.cs.flag
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\uploadflags.txt
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\App5.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\mscorlib.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\System.Core.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\System.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\System.Xml.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\App5.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\App5.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\App5.dll.mdb

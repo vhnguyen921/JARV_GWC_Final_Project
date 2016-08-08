@@ -12,6 +12,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using System.Net.Http;
 
 namespace App5
 {
@@ -31,15 +32,23 @@ namespace App5
 
             Console.WriteLine("Potentially NSFW URL: {Added for debug}");
             // string remoteUri = Console.ReadLine();
-            Console.WriteLine("hello");
+           // Console.WriteLine("hello");
 
-            Uri uri = new Uri("C:\\Users\\Girls Who Code\\Desktop\\lango\\tree.png");
-            var converted = uri.AbsoluteUri;
-            string stringUri = uri.ToString();
-            Console.WriteLine(stringUri);
+            //Uri uri = new Uri("C:\\Users\\Girls Who Code\\Desktop\\lango\\tree.png");
+            //var converted = uri.AbsoluteUri;
+            //string stringUri = uri.ToString();
+            // Console.WriteLine(stringUri);
+
+
+            var x = (HttpWebRequest)WebRequest.Create(http://api.clarifai.com/v1/tag/?&url);
+             x.method = "post";
+
+             x.Headers.Add("Authorization", "Bearer {2V76B0VAYy3bVBMwbooE2QBrb6gf89}";
+             x.data (encoded_data =@/ Users / USER / tree.png);
+           
 
             //string test1 = "http://www.mortonarb.org/files/EVENT_Oak-Collection.jpg";
-            string modelURL = "http://api.clarifai.com/v1/tag/?&url=" + stringUri + "&access_token=7gZe1kl5y2kbsmn3Z1avOWXMOehNuW";
+            string modelURL = "http://api.clarifai.com/v1/tag/?&url=" + stringUri + "&access_token=2V76B0VAYy3bVBMwbooE2QBrb6gf8";
             // make a webclient 
             WebClient myWebClient = new WebClient();
             // download & save in a databuffer)

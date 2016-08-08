@@ -39,16 +39,10 @@ namespace App5
             //string stringUri = uri.ToString();
             // Console.WriteLine(stringUri);
 
-
-            var x = (HttpWebRequest)WebRequest.Create(http://api.clarifai.com/v1/tag/?&url);
-             x.method = "post";
-
-             x.Headers.Add("Authorization", "Bearer {2V76B0VAYy3bVBMwbooE2QBrb6gf89}";
-             x.data (encoded_data =@/ Users / USER / tree.png);
            
 
-            //string test1 = "http://www.mortonarb.org/files/EVENT_Oak-Collection.jpg";
-            string modelURL = "http://api.clarifai.com/v1/tag/?&url=" + stringUri + "&access_token=2V76B0VAYy3bVBMwbooE2QBrb6gf8";
+            string test1 = "http://www.mortonarb.org/files/EVENT_Oak-Collection.jpg";
+            string modelURL = "http://api.clarifai.com/v1/tag/?&url=" + test1 + "&access_token=2V76B0VAYy3bVBMwbooE2QBrb6gf8";
             // make a webclient 
             WebClient myWebClient = new WebClient();
             // download & save in a databuffer)

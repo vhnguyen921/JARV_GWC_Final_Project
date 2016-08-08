@@ -28,8 +28,7 @@ namespace httpclartest
 
             Console.WriteLine("Potentially NSFW URL: {Added for debug}");
             // string remoteUri = Console.ReadLine();
-            //string vikingDude = "https://i.imgur.com/lnzsgv9.jpg";
-            //string nudeWoman = "https://i.imgur.com/aJXq544.jpg";
+           
             string test1 = "http://www.mortonarb.org/files/EVENT_Oak-Collection.jpg";
             string modelURL = "http://api.clarifai.com/v1/tag/?&url=" + test1 + "&access_token=7gZe1kl5y2kbsmn3Z1avOWXMOehNuW";
             // make a webclient 
@@ -54,11 +53,14 @@ namespace httpclartest
             //Enable for dbg 
             System.Diagnostics.Debug.Write("Parsed Text: ");
             System.Diagnostics.Debug.Write(" ");
-           
-               //(strn.Split(" ")[1]);
+            System.Diagnostics.Debug.Write(strn.Split(' ')[1]);
+            //(strn.Split(" ")[1]);
 
             //Console.WriteLine(strn.Split(" ")[1]);
 
+           // Console.WriteLine("Parsed Text: ");
+            //Console.WriteLineDebug.Write(" ");
+            //Console.WriteLine(strn);
 
             int iof2 = download.IndexOf("nsfw");
             int iop2 = download.IndexOf("sfw");
@@ -87,10 +89,10 @@ namespace httpclartest
                 Console.WriteLine("Image has been deemed NOT SAFE FOR WORK");
                 Console.WriteLine("     probability: 0 . {0} %", afterDeciOne);
             }
-            else
-            {
-                Console.WriteLine("Couldnt tell...");
-            }
+          //  else
+         //   {
+               // Console.WriteLine("Couldnt tell...");
+           // }
         }
     }
 }

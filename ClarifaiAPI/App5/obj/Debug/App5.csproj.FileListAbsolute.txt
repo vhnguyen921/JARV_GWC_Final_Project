@@ -75,4 +75,3 @@ C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5
 C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\obj\Debug\App5.dll.mdb
-C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\App5\bin\Debug\App5.dll.mdb

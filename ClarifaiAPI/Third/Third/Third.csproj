@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BCE7BDE4-07E6-4AA7-AF70-7D7908F5B7B1}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Third</RootNamespace>
+    <AssemblyName>Third</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <AndroidApplication>true</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
+    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>True</AndroidUseSharedRuntime>
+    <AndroidLinkMode>None</AndroidLinkMode>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
+    <AndroidLinkMode>SdkOnly</AndroidLinkMode>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Curl.cs" />
+    <Compile Include="CurlClosePolicy.cs" />
+    <Compile Include="CurlCode.cs" />
+    <Compile Include="CurlEasy.cs" />
+    <Compile Include="CurlEasyCallbacks.cs" />
+    <Compile Include="CurlFormCode.cs" />
+    <Compile Include="CurlFormOption.cs" />
+    <Compile Include="CurlFtpAuth.cs" />
+    <Compile Include="CurlFtpSsl.cs" />
+    <Compile Include="CurlHttpAuth.cs" />
+    <Compile Include="CurlHttpMultiPartForm.cs" />
+    <Compile Include="CurlHttpVersion.cs" />
+    <Compile Include="CurlInfo.cs" />
+    <Compile Include="CurlInfoType.cs" />
+    <Compile Include="CurlInitFlag.cs" />
+    <Compile Include="CurlIoCommand.cs" />
+    <Compile Include="CurlIoError.cs" />
+    <Compile Include="CurlIpResolve.cs" />
+    <Compile Include="CurlLockAccess.cs" />
+    <Compile Include="CurlLockData.cs" />
+    <Compile Include="CurlMessage.cs" />
+    <Compile Include="CurlMulti.cs" />
+    <Compile Include="CurlMultiCode.cs" />
+    <Compile Include="CurlMultiInfo.cs" />
+    <Compile Include="CurlNetrcOption.cs" />
+    <Compile Include="CurlOption.cs" />
+    <Compile Include="CurlProxyType.cs" />
+    <Compile Include="CurlShare.cs" />
+    <Compile Include="CurlShareCallbacks.cs" />
+    <Compile Include="CurlShareCode.cs" />
+    <Compile Include="CurlShareOption.cs" />
+    <Compile Include="CurlSlist.cs" />
+    <Compile Include="CurlSslContext.cs" />
+    <Compile Include="CurlSslVersion.cs" />
+    <Compile Include="CurlTimeCond.cs" />
+    <Compile Include="CurlVersion.cs" />
+    <Compile Include="CurlVersionFeatureBitmask.cs" />
+    <Compile Include="CurlVersionInfoData.cs" />
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="NativeMethods.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Resources\Resource.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="GettingStarted.Xamarin" />
+    <None Include="README.md" />
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\Main.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\Strings.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AndroidManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CurlSharp.csproj">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="httpclartest.csproj" />
+    <Content Include="httpclartest.sln" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+     Other similar extension points exist, see Microsoft.Common.targets.
+		<Target Name="BeforeBuild">
+		</Target>
+		<Target Name="AfterBuild">
+		</Target>
+ -->
+</Project>

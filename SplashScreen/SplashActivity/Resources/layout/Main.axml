@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
     android:paddingLeft="10dp"
     android:paddingRight="10dp"
     android:paddingTop="50dp"
     android:background="@drawable/background">
     <TextView
-        android:text="Welcome to Lang-Go! To start learning just click the button below!"
-        android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_width="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_height="wrap_content"
         android:id="@+id/textView1"
         android:textColor="@android:color/black" />
     <Button
         android:id="@+id/MyButton"
-        android:layout_width="fill_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Start Camera!" />
+        android:text="Camera" />
 </LinearLayout>

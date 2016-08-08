@@ -1,0 +1,4 @@
+Third.MainActivity, Third;md59977814893c9b5b938393c86ae822d4d.MainActivity
+Third.MainActivity, Third, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59977814893c9b5b938393c86ae822d4d.MainActivity
+Third.MainActivity;md59977814893c9b5b938393c86ae822d4d.MainActivity
+third.MainActivity;md59977814893c9b5b938393c86ae822d4d.MainActivity

@@ -37,4 +37,43 @@ c:\users\girls who code\documents\visual studio 2015\Projects\Third\Third\obj\De
 c:\users\girls who code\documents\visual studio 2015\Projects\Third\Third\obj\Debug\android\assets\Third.dll.mdb
 C:\Users\Girls Who Code\Documents\Visual Studio 2015\Projects\Third\Third\obj\Debug\Third.csprojResolveAssemblyReference.cache
 C:\Users\Girls Who Code\Documents\Visual Studio 2015\Projects\Third\Third\obj\Debug\Third.dll.mdb
-C:\Users\Girls Who Code\Documents\Visual Studio 2015\Projects\Third\Third\bin\Debug\Third.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\Third.dll.config
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\Third.dll
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\Third.pdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\Third.Third.apk
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\Third.Third-Signed.apk
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\Third.csprojResolveAssemblyReference.cache
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\Third.dll
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\Third.pdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\bin\Third.Third.apk
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\res\layout\main.xml
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\res\values\strings.xml
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\res\drawable\icon.png
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\R.cs.flag
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\uploadflags.txt
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\mscorlib.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\System.Core.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\System.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\System.Xml.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\Third.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\android\assets\Third.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\obj\Debug\Third.dll.mdb
+C:\Users\Girls Who Code\Documents\GitHub\JARV_GWC_Final_Project\ClarifaiAPI\Third\Third\bin\Debug\Third.dll.mdb

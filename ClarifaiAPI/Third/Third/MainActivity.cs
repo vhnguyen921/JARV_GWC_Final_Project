@@ -70,7 +70,7 @@ namespace Third
             // DEBUG 
             // Console.WriteLine(download);
 
-            ClarNSFW(download);
+            ClarNSFW(responseString);
 
         }
         public static void ClarNSFW(string download)
@@ -83,7 +83,8 @@ namespace Third
             //Enable for dbg 
             Console.WriteLine("Parsed Text: ");
             Console.WriteLine(" ");
-            Console.WriteLine(strn);
+            //Console.WriteLine(strn);
+            Console.WriteLine(strn.Split(' ')[1]);
 
 
             int iof2 = download.IndexOf("nsfw");

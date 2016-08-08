@@ -93,10 +93,11 @@ namespace httpclartest
                 //Enable for dbg 
                 Console.WriteLine("Parsed Text: ");
                 Console.WriteLine(" ");
-                Console.WriteLine(strn);
+               // Console.WriteLine(strn);
+                Console.WriteLine(strn.Split(' ')[1]);
 
 
-                int iof2 = download.IndexOf("nsfw");
+            int iof2 = download.IndexOf("nsfw");
                 int iop2 = download.IndexOf("sfw");
                 // dbg 
                 // Console.WriteLine("{0}, {1}", iof2, iop2);

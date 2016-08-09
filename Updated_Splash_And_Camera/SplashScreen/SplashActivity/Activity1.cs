@@ -93,13 +93,13 @@ namespace com.xamarin.sample.splashscreen
 
                 int iop = download.IndexOf("classes");
                 int iof = download.IndexOf("docid_str");
-                string strn = download.Substring(iop, iof - iop);
+                string englishTag = download.Substring(iop, iof - iop); //Our tag for the photo.
 
                 //Enable for dbg 
                 Console.WriteLine("Parsed Text: ");
                 Console.WriteLine(" ");
-                //Console.WriteLine(strn);
-                Console.WriteLine(strn.Split(' ')[1]);
+                //Console.WriteLine(englishTag);
+                Console.WriteLine(englishTag.Split(' ')[1]);
 
 
                 int iof2 = download.IndexOf("nsfw");
@@ -114,6 +114,8 @@ namespace com.xamarin.sample.splashscreen
                 int beforeDeciTwo = int.Parse(numbers[3]);
                 double afterDeciOne = double.Parse(numbers[2]);
                 double afterDeciTwo = double.Parse(numbers[4]);
+
+                string SpanishTag = "el Arbol"; //Translate to Spanish.
 
                 if (iof2 > iop2)
                 {

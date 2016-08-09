@@ -37,4 +37,3 @@ c:\users\girls who code\documents\visual studio 2015\Projects\First\First\obj\De
 c:\users\girls who code\documents\visual studio 2015\Projects\First\First\obj\Debug\android\assets\System.Xml.dll.mdb
 c:\users\girls who code\documents\visual studio 2015\Projects\First\First\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\Girls Who Code\Documents\Visual Studio 2015\Projects\First\First\obj\Debug\First.dll.mdb
-C:\Users\Girls Who Code\Documents\Visual Studio 2015\Projects\First\First\bin\Debug\First.dll.mdb
